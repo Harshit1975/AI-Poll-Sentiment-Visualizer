@@ -3,6 +3,8 @@
 ## Overview
 The **AI Poll Sentiment Visualizer** is a production-ready, full-stack web application designed to analyze, process, and visually render survey and poll data. It transforms raw responses into interactive, insightful dashboards.
 
+<img width="1885" height="703" alt="Screenshot 2026-04-19 161021" src="https://github.com/user-attachments/assets/ae156c6b-3f53-460f-8e88-9eb086540de6" />
+
 ## 🚀 The Problem & Solution
 **Problem:** Raw survey data (CSVs, Google Forms exports) is difficult to interpret. Stakeholders struggle to make quick, data-driven decisions when looking at thousands of rows of text.
 **Solution:** This project automates the data pipeline. It ingests survey data, cleans it using Pandas, and serves it via a live API to a React-based frontend where it is beautifully visualized.
@@ -71,3 +73,9 @@ For your portfolio or LinkedIn, be sure to screenshot:
 - Product Market Research Evaluation
 
 *Created as a portfolio project for Data Analysis and Full-Stack Engineering roles.*
+
+<img width="1799" height="730" alt="Screenshot 2026-04-19 161034" src="https://github.com/user-attachments/assets/b55c0d20-b3ce-4ce3-8603-52781a79d834" />
+
+<img width="947" height="646" alt="Screenshot 2026-04-19 161048" src="https://github.com/user-attachments/assets/7a61a3a2-dc8e-44c5-9c5c-740b14dcf133" />
+
+
