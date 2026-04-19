@@ -1,7 +1,7 @@
-# 📊 Poll Results Visualizer
+# 📊 AI Poll Sentiment Visualizer
 
 ## Overview
-The **Poll Results Visualizer** is a production-ready, full-stack web application designed to analyze, process, and visually render survey and poll data. It transforms raw responses into interactive, insightful dashboards.
+The **AI Poll Sentiment Visualizer** is a production-ready, full-stack web application designed to analyze, process, and visually render survey and poll data. It transforms raw responses into interactive, insightful dashboards.
 
 ## 🚀 The Problem & Solution
 **Problem:** Raw survey data (CSVs, Google Forms exports) is difficult to interpret. Stakeholders struggle to make quick, data-driven decisions when looking at thousands of rows of text.
